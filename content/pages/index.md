@@ -220,7 +220,7 @@ seo:
       value: The preview of the Personal theme
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/eleanor-carr.png
+      value: /_static/app-assets/images/20210528_162135.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
